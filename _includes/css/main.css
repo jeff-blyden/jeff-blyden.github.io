@@ -80,6 +80,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-explore-text {
+    color: #{{ site.color.secondary }};
+}
+
 header {
     text-align: center;
     color: #fff;

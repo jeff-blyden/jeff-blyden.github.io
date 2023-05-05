@@ -1,7 +1,8 @@
 ---
 layout: default
-modal-id: 1
-img: event.png
+modal-id: 2
+img: events.png
 alt: image-alt
+title: Events
 description: Bar Buddies organizes many events every year. Sign up for a upcoming event!
 ---

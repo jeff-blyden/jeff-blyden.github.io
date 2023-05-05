@@ -1,8 +1,9 @@
 ---
 layout: default
 modal-id: 1
-img: heart-handshake.png
+img: partners.png
 alt: image-alt
+title: Partners
 description: Businesses and charities that we have collaborated with in the past.
 ---
 
