@@ -1,8 +1,9 @@
 ---
 layout: default
 modal-id: 2
+modal-img: bb_trivia_2023.png
 img: events.png
 alt: image-alt
 title: Events
-description: Bar Buddies organizes many events every year. Sign up for a upcoming event!
+description: Sign up for Bar Buddies Trivia Night 2023!
 ---
