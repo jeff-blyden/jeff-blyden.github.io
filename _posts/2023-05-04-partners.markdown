@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-modal-img: partners.png
+modal-img: portfolio/partners.png
 img: partners.png
 alt: image-alt
 title: Partners

@@ -6,4 +6,5 @@ img: events.png
 alt: image-alt
 title: Events
 description: Sign up for Bar Buddies Trivia Night 2023!
+data-link: https://fb.me/e/1uzZdlQpJ
 ---
